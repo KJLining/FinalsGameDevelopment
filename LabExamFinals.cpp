@@ -185,7 +185,6 @@ int main()
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
         return 0;
-        
     }
 
     // Question 3
@@ -753,8 +752,9 @@ int main()
     {
         score += 100000;
         cout << "Your answer: " << finalanswerq10 << " is correct!" << endl;
-        cout << "Your prize money is now: " << "Php. " << score << endl
-             << endl;
+        cout << "Congratulations " << playername << "! " << "You won: " << endl;
+        cout << "Php. " << score << endl;
+        cout << "You are now a Millionaire!!!!"
     }
     else
     {
