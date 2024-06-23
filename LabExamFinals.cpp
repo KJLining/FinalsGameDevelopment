@@ -111,6 +111,7 @@ int main()
         cout << "Your answer: " << finalanswerq1 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 2
@@ -180,9 +181,11 @@ int main()
     }
     else
     {
-        cout << "Your answer: " << finalanswerq3 << " is wrong!" << endl;
+        cout << "Your answer: " << finalanswerq2 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
+        
     }
 
     // Question 3
@@ -251,8 +254,10 @@ int main()
     }
     else
     {
+        cout << "Your answer: " << finalanswerq3 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 4
@@ -324,6 +329,7 @@ int main()
         cout << "Your answer: " << finalanswerq4 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 5
@@ -394,6 +400,7 @@ int main()
         cout << "Your answer: " << finalanswerq5 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 6
@@ -466,6 +473,7 @@ int main()
         cout << "Your answer: " << finalanswerq6 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 7
@@ -537,6 +545,7 @@ int main()
         cout << "Your answer: " << finalanswerq7 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 8
@@ -608,6 +617,7 @@ int main()
         cout << "Your answer: " << finalanswerq8 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 9
@@ -679,6 +689,7 @@ int main()
         cout << "Your answer: " << finalanswerq9 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
 
     // Question 10
@@ -750,6 +761,7 @@ int main()
         cout << "Your answer: " << finalanswerq10 << " is wrong!" << endl;
         cout << "Congratulations " << playername << "! " << "You won: " << endl;
         cout << "Php. " << score << endl;
+        return 0;
     }
     return 0;
 }
